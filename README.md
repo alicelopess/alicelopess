@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 I was doing my undergraduate program in Veterinary Medicine when I discovered a blossoming passion for web development and user interface design. I started my studies in 2021, building small static websites with HTML and CSS, and at the beginning of 2023, I've taken part in a few research projects that involved compiling large amounts of data and building and cleaning spreadsheets. Realizing the need to automate some processes, I started studying Python, and I love exploring this fantastic language. I'm currently focusing on expanding my knowledge of automation, web development, and artificial intelligence.
 
 - 🐍 Python Enthusiast
-- 🌐 Passionate about turning creative ideas into functional and elegant code.
-- 👨‍💻 All my projects are available on GitHub
+- 👨‍💻 Passionate about turning creative ideas into functional and elegant code
 - 🔮 Fun Facts: Dog Lover, Potterhead 
 
 ## ⚡ Skills
 
-- **Languages:** Python
-- **Web Development:** HTML, CSS, JavaScript
+- **Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS
 - **Frameworks & Libraries:** Flask, Django
 - **Automation Tools:** Selenium, BeautifulSoup
 - **Version Control:** Git, GitHub
@@ -42,7 +41,7 @@ I was doing my undergraduate program in Veterinary Medicine when I discovered a 
 
 I'm actively seeking opportunities to collaborate on automation and web development projects. Whether it's enhancing existing systems or building something from scratch, count me in!
 
-- 🛠️ I’m currently working on webscraping projects using scrapy development using Django and Flask.
+- 🛠️ I’m currently working on webscraping projects using Scrapy.
 - 🌱 I’m currently learning web development using Django.
 - 🤝 I’m looking to collaborate on automation and web development projects using Python.
 
@@ -51,7 +50,7 @@ I'm actively seeking opportunities to collaborate on automation and web developm
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelopess&theme=transparent&bg_color=fff&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000) ![Alice's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=alicelopess&) ![Alice's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alicelopess&layout=compact&bg_color=FFF&border_color=E94D5F&title_color=E94D5F&text_color=000)
 
 
-## Let's Collaborate!
+## 💌 Let's Collaborate!
 
 If you're working on an exciting project or have ideas to explore, I'd love to be a part of it. Here's how you can reach me:
 
