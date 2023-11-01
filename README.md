@@ -47,7 +47,7 @@ I'm actively seeking opportunities to collaborate on automation and web developm
 
 ## 📌 GitHub Stats
 
-![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelopess&theme=transparent&bg_color=fff&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)  ![Alice's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=alicelopess&)]  ![Alice's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alicelopess&layout=compact&bg_color=FFF&border_color=E94D5F&title_color=E94D5F&text_color=000)
+![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelopess&theme=transparent&bg_color=fff&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)  ![Alice's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=alicelopess&)  ![Alice's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alicelopess&layout=compact&bg_color=FFF&border_color=E94D5F&title_color=E94D5F&text_color=000)
 
 
 ## 💌 Let's Collaborate!
