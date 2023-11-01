@@ -83,7 +83,7 @@ PT-BR
 
 ## 💗 Sobre Mim
 
-Eu estava fazendo graduação em Medicina Veterinária quando descobri uma paixão florescente por desenvolvimento web e design de interfaces. Eu comecei meus estudos em 2021, construindo pequenos sites estáticos com HTML e CSS e, no início de 2023, participei alguns projetos de pesquisa que envolvem compilação de grande quantidade de dados, construção e limpeza de planilhas. Percebendo a necessidade de automatizar alguns processos, comecei a estudar Python e estou amando explorar essa linguagem maravilhosa. Atualmente, estou focada em expandir meus conhecimentos em automação, desenvolvimento web e inteligência artificial.
+Eu estava fazendo graduação em Medicina Veterinária quando descobri uma paixão florescente por desenvolvimento web e design de interfaces. Eu comecei meus estudos em 2021, construindo pequenos sites estáticos com HTML e CSS e, no início de 2023, participei de alguns projetos de pesquisa que envolvem compilação de grande quantidade de dados, construção e limpeza de planilhas. Percebendo a necessidade de automatizar alguns processos, comecei a estudar Python e estou amando explorar essa linguagem maravilhosa. Atualmente, estou focada em expandir meus conhecimentos em automação, desenvolvimento web e inteligência artificial.
   
 - 🐍 Desenvolvedora Entusiasta
 - 🌐 Apaixonada por transformar ideias criativas em código funcional e elegante.
