@@ -28,7 +28,7 @@ I was doing my undergraduate program in Veterinary Medicine when I discovered a 
 
 - **Languages:** Python, JavaScript
 - **Web Development:** HTML, CSS
-- **Frameworks & Libraries:** Flask, Django
+- **Frameworks & Libraries:** Flask
 - **Automation Tools:** Selenium, BeautifulSoup
 - **Version Control:** Git, GitHub
 
