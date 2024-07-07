@@ -4,7 +4,7 @@
 
 ## 💗 About Me
 
-I was doing my undergraduate program in Veterinary Medicine when I discovered a blossoming passion for web development and user interface design. I started my studies in 2021, building small static websites with HTML and CSS, and at the beginning of 2023, I've taken part in a few research projects that involved compiling large amounts of data and building and cleaning spreadsheets. Realizing the need to automate some processes, I started studying Python, and I love exploring this fantastic language. I'm currently focusing on expanding my knowledge of automation, web development, and artificial intelligence.
+<!-- I was doing my undergraduate program in Veterinary Medicine when I discovered a blossoming passion for web development and user interface design. I started my studies in 2021, building small static websites with HTML and CSS, and at the beginning of 2023, I've taken part in a few research projects that involved compiling large amounts of data and building and cleaning spreadsheets. Realizing the need to automate some processes, I started studying Python, and I love exploring this fantastic language. I'm currently focusing on expanding my knowledge of automation, web development, and artificial intelligence. -->
 
 - 🐍 Python Enthusiast
 - 👨‍💻 Passionate about turning creative ideas into functional and elegant code
