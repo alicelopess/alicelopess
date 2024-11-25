@@ -12,9 +12,9 @@
 
 ## ⚡ Skills
 
-- **Languages:** Python, JavaScript, Typescript
-- **Web Development:** HTML, CSS
-- **Frameworks & Libraries:** Flask, React
+- **Languages:** JavaScript, Typescript, Python
+- **Web Development:** HTML, CSS, ReactJS
+- **Frameworks & Libraries:** Flask, ReactJS
 - **Automation Tools:** Selenium, BeautifulSoup
 - **Version Control:** Git, GitHub
 
